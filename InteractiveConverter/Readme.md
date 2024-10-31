@@ -17,7 +17,7 @@ Java Development Kit (JDK) 8 or higher: Ensure that the JDK is installed to comp
 
 - Setup and Installation
 Clone the repository:
-git clone https://github.com/justreadin/justreading.java/InteractiveConverter.git
+git clone: (https://github.com/Justreadin/Java/tree/68df02b58ab56a0f2403f3c53797e822f6218a60/InteractiveConverter)
 
 - Navigate to the project directory:
 cd InteractiveConverter
@@ -72,17 +72,17 @@ Reversed String: dlrow olleh
 
 - Project Structure
 
-InteractiveConverter
+- InteractiveConverter
  ├── Main.java    
  └── README.md 
 
 - Contributing
 Contributions are welcome! Here’s how you can help:
 
-1.Fork the repository.
-2.Create a new branch (git checkout -b feature-branch).
-3.Commit your changes (git commit -am 'Add new feature').
-4.Push to the branch (git push origin feature-branch).
+- 1.Fork the repository.
+- 2.Create a new branch (git checkout -b feature-branch).
+- 3.Commit your changes (git commit -am 'Add new feature').
+- 4.Push to the branch (git push origin feature-branch).
 Open a Pull Request.
 
 - Acknowlegment:
