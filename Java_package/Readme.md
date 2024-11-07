@@ -38,7 +38,7 @@ The project follows a three-package structure for clarity and organization:
 - │   │   ├── IClientService.java
 - │   │   └── ITaskService.java
 - │   │
-- │   └── Abstract_classes
+- │   └── Abstract_packages
 - │       ├── EmployeeBase.java
 - │       ├── DepartmentBase.java
 - │       ├── ProjectBase.java
@@ -66,7 +66,7 @@ The project follows a three-package structure for clarity and organization:
 - ITaskService: Defines methods to manage tasks.
 
   
-- 2. Abtract_classes - Contains abstract classes that define base properties and methods.
+- 2. Abtract_packages - Contains abstract classes that define base properties and methods.
 
 - EmployeeBase: Abstract class with base properties and methods for employees.
 - DepartmentBase: Abstract class with base properties and methods for departments.
