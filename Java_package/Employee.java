@@ -1,6 +1,6 @@
-package Java_packages;
+package Java_package;
 
-public class Employee {
+public class Employees {
     private String name;
     private int employeeId;
 
