@@ -1,4 +1,4 @@
-package Java_package;
+package Git_packages;
 
 public class Task {
     private String taskDescription;
